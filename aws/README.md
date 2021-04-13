@@ -20,7 +20,8 @@
 
 ## Available modules
 
-1. IAM
-    1. [`iam_account`](iam_account/README.md) - Sets account alias, password policy
-    1. [`iam_users_and_groups`](iam_users_and_groups/README.md) - Creates "user1" in the "admins" group
-    1. [`iam_roles`](iam_roles/README.md) - Creates a role with full access to S3 for AWS services (e.g.: EC2, Lambda)
+### IAM
+
+1. [`iam_account`](iam_account/README.md) - Sets account alias, password policy
+1. [`iam_users_and_groups`](iam_users_and_groups/README.md) - Creates "user1" in the "admins" group
+1. [`iam_roles`](iam_roles/README.md) - Creates a role with full access to S3 for AWS services (e.g.: EC2, Lambda)
