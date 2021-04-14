@@ -25,3 +25,4 @@
 1. [`iam_account`](iam_account/README.md) - Sets account alias, password policy
 1. [`iam_users_and_groups`](iam_users_and_groups/README.md) - Creates "user1" in the "admins" group
 1. [`iam_roles`](iam_roles/README.md) - Creates a role with full access to S3 for AWS services (e.g.: EC2, Lambda)
+1. [`cloudwatch_alarms`](cloudwatch_alarms/README.md) - Sets up a CloudWatch billing alarm that gets triggered when estimated monthly charge goes over $10
